@@ -41,13 +41,13 @@ The application simulates real-time enterprise employee data maintenance and rep
 ## Project Flow
 
 Selection Screen
-↓
+->
 Validation
-↓
+->
 Open SQL Query
-↓
+->
 Internal Table Processing
-↓
+->
 ALV Report Output
 
 ---
